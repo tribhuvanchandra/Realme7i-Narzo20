@@ -13,7 +13,7 @@ GApps size -- 226 MB(zip)-- =~ 430 MB (Unpacked)
 
 No need to wipe Dalvik cache as I set a default flag to wipe it off after gapps installation
 
-gapps include
+GApps include
 ----------------
 
 
